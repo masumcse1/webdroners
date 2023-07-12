@@ -1,3 +1,3 @@
 # webdroners
 
-http://localhost:8080/meveo/MyServlet
+http://localhost:8080/meveo/api/hello
