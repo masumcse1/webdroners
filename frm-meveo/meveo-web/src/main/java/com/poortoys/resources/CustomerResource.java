@@ -18,6 +18,7 @@ import com.poortoys.dtos.CustomerDTO;
 @Path("/v1/customers")
 public class CustomerResource {
 	
+	@Path("/create")
 	@POST
     @Consumes(value = MediaType.APPLICATION_JSON)
     @Produces(value = MediaType.APPLICATION_JSON)
