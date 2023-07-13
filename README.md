@@ -3,7 +3,7 @@
 http://localhost:8080/meveo/api/hello
 
 ##Create Customer:
-URL: http://localhost:8080/maveo/api/v1/customers/create
+URL: http://localhost:8080/meveo/api/v1/customers/create
 Method: POST
 
 Request Body (JSON): 
@@ -15,5 +15,5 @@ Request Body (JSON):
 	
 
 ##Find Customer:
-URL: http://localhost:8080/maveo/api/v1/customers/1001
+URL: http://localhost:8080/meveo/api/v1/customers/1001
 Method: GET	
